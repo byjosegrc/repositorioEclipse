@@ -32,6 +32,7 @@ public class Suma {
 			respuesta=teclado.next();
 		}
 		teclado.close();
+		//estamos modificando en la rama desarrollo
 		
 		
 	}
